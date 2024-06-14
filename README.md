@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python,c,c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me srikavinesh02@gmail.com
+- 📫 How to reach me https://t.me//sri_nobody
 - 😄 Pronouns: ...
 - ⚡ Fun fact: sleepy~
 
