@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sri-067
+- 👋 Hi, I’m Srikavinesh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python,c,c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python,c and web development
+- 💞️ I’m looking to collaborate on doing projects
 - 📫 How to reach me https://t.me//sri_nobody
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: sleepy~
 
 <!---
